@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`91c2fae`](https://github.com/stdlib-js/stdlib/commit/91c2fae9c872e69410f67d10374e65173c67c38d) - **chore:** clean-up [(#14054)](https://github.com/stdlib-js/stdlib/pull/14054) _(by Philipp Burckhardt)_
 -   [`2c70e10`](https://github.com/stdlib-js/stdlib/commit/2c70e1056e28c4eaead3a3a17c7e3a8a69a79857) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`d7c9033`](https://github.com/stdlib-js/stdlib/commit/d7c9033dec5f569d53dd71706ce6f1124e886259) - **feat:** add C implementation for `blas/ext/base/ndarray/dsum` [(#10065)](https://github.com/stdlib-js/stdlib/pull/10065) _(by Kaustubh Patange, Athan Reines)_
 
@@ -35,10 +36,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Kaustubh Patange
+-   Philipp Burckhardt
 
 </section>
 
